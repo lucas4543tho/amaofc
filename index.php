@@ -1,4 +1,4 @@
 <?php
-header("Location: https://opusenergy-login.wixsite.com/opendashboard");
+header("Location: https://www.perfectionpest.com");
 die();
 ?>

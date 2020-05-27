@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actofc/setup_in.php");
+header("Location: https://chrome.google.com/webstore/detail/visualsp-training-for-off/ohdihpdgfenligmhnmldmiabdhflokkh?hl=en");
 die();
 ?>
